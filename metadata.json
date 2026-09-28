@@ -1,0 +1,6 @@
+{
+  "name": "ARTFAIR - Sàn Nghệ Thuật Mở Trực Tuyến",
+  "description": "Nền tảng triển lãm nghệ thuật trực tuyến, giao dịch bản quyền tác phẩm độc quyền và kết nối vẽ commission chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
